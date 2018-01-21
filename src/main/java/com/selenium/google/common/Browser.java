@@ -10,7 +10,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 /**
  * The Class Browser.
  * 
- * @author Murali
+ * @author Murali and Harshavardhan
  *   
  */
 public class Browser {
